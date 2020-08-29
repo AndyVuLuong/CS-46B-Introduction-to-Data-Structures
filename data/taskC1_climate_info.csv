@@ -1,0 +1,12 @@
+Task C1: These are the Top 10 countries with largest temperature differences (absolute value) of 8 between the years 2000 and 2006
+Temperature Delta, Year Delta, Month, Country, Country_Code
+3.07(C) 37.53(F), 6, Aug, Czech Republic, CZE 
+3.33(C) 37.99(F), 6, Aug, Republic of Montenegro, MNE 
+3.58(C) 38.45(F), 6, Aug, Republic of Serbia, SRB 
+3.64(C) 38.56(F), 6, Aug, Hungary, HUN 
+3.8(C) 38.84(F), 6, Aug, Switzerland, CHE 
+4.02(C) 39.23(F), 6, Aug, Bosnia and Herzegovina, BIH 
+4.05(C) 39.29(F), 6, Aug, Austria, AUT 
+4.13(C) 39.43(F), 6, Aug, Croatia, HRV 
+4.13(C) 39.44(F), 6, Aug, Slovenia, SVN 
+4.29(C) 39.72(F), 6, Aug, Liechtenstein, LIE 

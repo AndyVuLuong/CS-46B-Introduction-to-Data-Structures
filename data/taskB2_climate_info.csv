@@ -1,0 +1,24 @@
+Task B2: These are the Top 10 Countries with the Lowest Temperature!
+Temperature, Year, Month, Country, Country_Code
+-29.66(C) -21.4(F), 2002, Feb, Greenland, GRL 
+-29.64(C) -21.36(F), 2006, Jan, Russia, RUS 
+-26.04(C) -14.87(F), 2004, Jan, Canada, CAN 
+-25.54(C) -13.97(F), 2011, Jan, Mongolia, MNG 
+-18.19(C) -0.73(F), 2008, Jan, Kyrgyzstan, KGZ 
+-18.09(C) -0.57(F), 2006, Jan, Kazakhstan, KAZ 
+-16.19(C) 2.85(F), 2003, Jan, Finland, FIN 
+-15.26(C) 4.53(F), 2011, Jan, Korea. Democratic People's Republic of, PRK 
+-14.85(C) 5.26(F), 2008, Jan, Tajikistan, TJK 
+-13.01(C) 8.59(F), 2010, Dec, Sweden, SWE 
+Task B2: These are the Top 10 Countries with the Highest Temperature!
+Temperature, Year, Month, Country, Country_Code
+34.53(C) 94.16(F), 2015, Aug, Saudi Arabia, SAU 
+34.61(C) 94.31(F), 2015, Jun, Niger, NER 
+34.66(C) 94.4(F), 2009, Jul, Algeria, DZA 
+34.68(C) 94.42(F), 2015, Jun, Mauritania, MRT 
+35.03(C) 95.06(F), 2015, May, Mali, MLI 
+35.19(C) 95.35(F), 2012, Jul, United Arab Emirates, ARE 
+35.68(C) 96.22(F), 2000, Jul, Iraq, IRQ 
+37.55(C) 99.59(F), 2016, Jul, Qatar, QAT 
+38.29(C) 100.92(F), 2016, Jul, Bahrain, BHR 
+38.57(C) 101.42(F), 2016, Jul, Kuwait, KWT 

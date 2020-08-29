@@ -1,0 +1,24 @@
+Task B1: Top 10 Countries with the Lowest Temperature for Aug
+Temperature, Year, Month, Country, Country_Code
+-6.0(C) 21.2(F), 2013, Aug, Greenland, GRL 
+3.25(C) 37.86(F), 2007, Aug, Chile, CHL 
+4.58(C) 40.24(F), 2004, Aug, New Zealand, NZL 
+6.74(C) 44.13(F), 2007, Aug, Argentina, ARG 
+7.85(C) 46.14(F), 2005, Aug, Iceland, ISL 
+7.89(C) 46.19(F), 2003, Aug, Lesotho, LSO 
+7.94(C) 46.3(F), 2006, Aug, Liechtenstein, LIE 
+9.26(C) 48.67(F), 2004, Aug, Canada, CAN 
+10.4(C) 50.72(F), 2000, Aug, Norway, NOR 
+10.56(C) 51.0(F), 2011, Aug, Faroe Islands, FRO 
+Task B1: Top 10 Countries with the Highest Temperature for Aug
+Temperature, Year, Month, Country, Country_Code
+32.03(C) 89.65(F), 2015, Aug, Egypt, EGY 
+32.76(C) 90.96(F), 2015, Aug, Djibouti, DJI 
+33.43(C) 92.18(F), 2009, Aug, Mauritania, MRT 
+34.01(C) 93.22(F), 2012, Aug, Algeria, DZA 
+34.53(C) 94.16(F), 2015, Aug, Saudi Arabia, SAU 
+34.89(C) 94.8(F), 2015, Aug, United Arab Emirates, ARE 
+35.28(C) 95.5(F), 2016, Aug, Iraq, IRQ 
+37.01(C) 98.61(F), 2015, Aug, Qatar, QAT 
+37.61(C) 99.7(F), 2015, Aug, Bahrain, BHR 
+38.12(C) 100.61(F), 2015, Aug, Kuwait, KWT 
